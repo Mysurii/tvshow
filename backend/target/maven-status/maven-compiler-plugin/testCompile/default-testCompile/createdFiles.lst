@@ -1,0 +1,5 @@
+com\abnamro\tvshowmanager\tvshow\integration\TvShowControllerTests.class
+com\abnamro\tvshowmanager\tvshow\unit\TvShowServiceImplTests.class
+com\abnamro\tvshowmanager\TvshowManagerApplicationTests.class
+com\abnamro\tvshowmanager\genre\integration\GenreControllerTests.class
+com\abnamro\tvshowmanager\genre\unit\GenreServiceImplTests.class
